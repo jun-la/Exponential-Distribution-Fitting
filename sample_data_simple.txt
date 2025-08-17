@@ -1,0 +1,18 @@
+# Sample exponential data - one number per line
+# This is a comment line
+1.234
+0.876
+1.567
+0.654
+1.123
+0.789
+1.456
+0.543
+1.234
+0.876
+1.345
+0.987
+1.678
+0.432
+1.111
+
